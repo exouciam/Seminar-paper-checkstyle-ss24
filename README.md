@@ -1,4 +1,4 @@
-# Static code analysis with Checkstyle and PMD
+# Static code analysis with Checkstyle
 
 ## Title
 
